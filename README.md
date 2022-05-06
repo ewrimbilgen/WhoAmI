@@ -10,7 +10,7 @@
 
 **Sports**
 
-(https://tenor.com/view/cycling-bicycle-happy-bike-ride-gif-17482024)
+<div class="tenor-gif-embed" data-postid="17482024" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cycling-bicycle-happy-bike-ride-gif-17482024">Cycling Bicycle GIF</a>from <a href="https://tenor.com/search/cycling-gifs">Cycling GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 and 
 https://tenor.com/view/swim-anime-gif-12260430
