@@ -8,14 +8,39 @@
 
 <br />
 
-**Sports**
 
 
-<code><img height="40" title="MongoDB" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/MongoDB-Icon-logo.svg"></code>
+**Technologies that I love**
+
+<img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/Rlogo.png"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/api.jpg"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/figma.png"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/python.png"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/azure.png"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/cs.jpg"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/ab.webp"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/ai.webp">
+
+
+<br />
 
 
 
+**Sports that I love**
 
+
+<img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/giphy.gif"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/swim.gif"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/run.gif"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/bs.gif">
+
+
+<br />
+
+
+
+**Games I'd die for **
+
+<img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/di.png"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/fo.png"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/mm.jpeg"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/ww.jpeg"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/hl.png">
+
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewrimbilgen)](https://github.com/ewrimbilgen/github-readme-stats)
