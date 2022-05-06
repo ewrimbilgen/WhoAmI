@@ -8,6 +8,13 @@
 
 <br />
 
+**Sports**
+
+(https://tenor.com/view/cycling-bicycle-happy-bike-ride-gif-17482024)
+
+and 
+https://tenor.com/view/swim-anime-gif-12260430
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewrimbilgen)](https://github.com/ewrimbilgen/github-readme-stats)
