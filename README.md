@@ -10,7 +10,7 @@
 
 **Sports**
 
-<img src="https://tenor.com/view/cycling-bicycle-happy-bike-ride-gif-17482024" width="50px">
+<img src="https://tenor.com/view/bike-biking-cycling-sport-cyclist-gif-21268407" width="100px">
 
 
 and 
