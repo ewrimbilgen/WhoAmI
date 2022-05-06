@@ -12,7 +12,7 @@
 
 **Technologies that I love**
 
-<img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/Rlogo.png"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/api.jpg"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/figma.png"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/python.png"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/azure.png"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/cs.jpg"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/ab.webp"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/ai.webp">
+<img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/Rlogo.png"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/api.jpg"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/figma.png"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/python.png"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/azure.png"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/cs.jpg"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/ab.webp"> <img height="40" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/ai.webp">
 
 
 <br />
@@ -22,7 +22,7 @@
 **Sports that I love**
 
 
-<img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/giphy.gif"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/swim.gif"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/run.gif"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/bs.gif">
+<img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/giphy.gif"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/swim.gif"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/run.gif"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/bs.gif">
 
 
 <br />
@@ -31,7 +31,7 @@
 
 **Games I'd die for **
 
-<img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/di.png"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/fo.png"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/mm.jpeg"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/ww.jpeg"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/main/hl.png">
+<img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/di.png"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/fo.png"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/mm.jpeg"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/ww.jpeg"> <img height="50" title="gif" src="https://github.com/ewrimbilgen/WhoAmI/blob/master/hl.png">
 
 
 
